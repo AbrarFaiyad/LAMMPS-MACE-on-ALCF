@@ -93,7 +93,8 @@ Aurora has 2 tiles per GPU. Simulation speed was highest with 1 tile-1 rank, and
 
 # Performance tests
 Vanilla Aurora.md build vs Alvaro's Sphericart build weak scaling test.
-![Weak scaling performance comparison of Vanilla Aurora build vs Alvaro's Sphericart build](https://github.com/user-attachments/assets/2316fcf6-5225-4365-9ae2-b2bc60426791)
+![Weak scaling performance comparison of Vanilla Aurora build vs Alvaro's Sphericart build](<img width="3139" height="2058" alt="image" src="https://github.com/user-attachments/assets/d446ddbc-19ac-4d43-aa80-a1cf73bd3f68" />
+)
 
 **Number of atoms:** 8512
 
